@@ -1,6 +1,6 @@
 name: Generate feed
 
-on: schedule: - cron: '0 3 * * *' # запускается ежедневно в 03:00 UTC workflow_dispatch: {}
+on: schedule: - cron: '0 3 * * *' workflow_dispatch: {}
 
 jobs: build: runs-on: ubuntu-latest steps: - name: Checkout uses: actions/checkout@v4 with: persist-credentials: true
 
@@ -11,7 +11,6 @@ jobs: build: runs-on: ubuntu-latest steps: - name: Checkout uses: actions/checko
 
   - name: Convert CSV to YML
     run: |
-      set -e
       mkdir -p docs
       python3 convert_csv_to_yml.py feed_template.csv docs/feed.xml
 
