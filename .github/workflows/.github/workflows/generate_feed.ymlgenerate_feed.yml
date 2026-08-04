@@ -1,0 +1,27 @@
+name: Generate feed
+
+on: schedule: - cron: '1 2 * * *' # запускается ежедневно в 03:00 UTC — поменяйте при желании workflow_dispatch: {}
+
+jobs: build: runs-on: ubuntu-latest steps: - name: Checkout uses: actions/checkout@v4 with: persist-credentials: true
+
+  - name: Set up Python
+    uses: actions/setup-python@v4
+    with:
+      python-version: '3.10'
+
+  - name: Convert CSV to YML
+    run: |
+      mkdir -p docs
+      python3 convert_csv_to_yml.py feed_template.csv docs/feed.xml
+
+  - name: Commit feed
+    run: |
+      git config user.name "github-actions[bot]"
+      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      if git status --porcelain | grep docs/feed.xml; then
+        git add docs/feed.xml
+        git commit -m "Auto update feed.xml"
+        git push
+      else
+        echo "Nothing changed"
+      fi
