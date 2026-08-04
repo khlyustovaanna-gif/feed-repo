@@ -13,7 +13,7 @@
     <offers>
   <offer id="p1" available="true">
     <url>https://sto.cross-export.ru</url>
-    <price>0</price>
+    <price>10</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -22,53 +22,9 @@
     <vendor></vendor>
     <model></model>
   </offer>
-  <offer id="p2" available="true">
-    <url>https://sto.cross-export.ru/spasibo</url>
-    <price>0</price>
-    <currencyId>RUB</currencyId>
-    <categoryId>1</categoryId>
-    <picture></picture>
-    <name></name>
-    <description>Спасибо! Ваша заявка на покупку станков для ремонта ДВС принята. Наш менеджер свяжется с вами в ближайшее время. Служебная страница — закрыть от индексации.</description>
-    <vendor></vendor>
-    <model></model>
-  </offer>
-  <offer id="p3" available="true">
-    <url>https://sto.cross-export.ru/opressov</url>
-    <price>0</price>
-    <currencyId>RUB</currencyId>
-    <categoryId>1</categoryId>
-    <picture></picture>
-    <name></name>
-    <description>Стенды для опрессовки ГБЦ в наличии и под заказ. Проверка головок блока цилиндров на герметичность. Доставка по России, гарантия, техподдержка.</description>
-    <vendor></vendor>
-    <model></model>
-  </offer>
-  <offer id="p4" available="true">
-    <url>https://sto.cross-export.ru/remshatunov</url>
-    <price>0</price>
-    <currencyId>RUB</currencyId>
-    <categoryId>1</categoryId>
-    <picture></picture>
-    <name></name>
-    <description>Станки для ремонта и восстановления шатунов ДВС. Модели в наличии и под заказ из Китая, цены ниже конкурентов, доставка по РФ и гарантия.</description>
-    <vendor></vendor>
-    <model></model>
-  </offer>
-  <offer id="p5" available="true">
-    <url>https://sto.cross-export.ru/moechnye</url>
-    <price>0</price>
-    <currencyId>RUB</currencyId>
-    <categoryId>1</categoryId>
-    <picture></picture>
-    <name></name>
-    <description>Моечные машины и устройства для очистки деталей ДВС. В наличии и под заказ, доставка по России, гарантия и техподдержка на весь срок эксплуатации.</description>
-    <vendor></vendor>
-    <model></model>
-  </offer>
   <offer id="p6" available="true">
     <url>https://sto.cross-export.ru/frezerovka</url>
-    <price>0</price>
+    <price>25</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -77,31 +33,9 @@
     <vendor></vendor>
     <model></model>
   </offer>
-  <offer id="p7" available="true">
-    <url>https://sto.cross-export.ru/vertrast</url>
-    <price>0</price>
-    <currencyId>RUB</currencyId>
-    <categoryId>1</categoryId>
-    <picture></picture>
-    <name></name>
-    <description>Вертикально-расточные станки для ремонта блоков цилиндров ДВС. В наличии и под заказ из Китая, цены ниже конкурентов, доставка по России, гарантия.</description>
-    <vendor></vendor>
-    <model></model>
-  </offer>
-  <offer id="p8" available="true">
-    <url>https://sto.cross-export.ru/faskasedla</url>
-    <price>0</price>
-    <currencyId>RUB</currencyId>
-    <categoryId>1</categoryId>
-    <picture></picture>
-    <name></name>
-    <description>Станки для обработки фаски седла клапана ГБЦ. Точная обработка сёдел, модели в наличии и под заказ, доставка по России, гарантия и техподдержка.</description>
-    <vendor></vendor>
-    <model></model>
-  </offer>
   <offer id="p9" available="true">
     <url>https://sto.cross-export.ru/obrabklapana</url>
-    <price>0</price>
+    <price>10</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -112,7 +46,7 @@
   </offer>
   <offer id="p10" available="true">
     <url>https://sto.cross-export.ru/gorizrast</url>
-    <price>0</price>
+    <price>25</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -121,53 +55,9 @@
     <vendor></vendor>
     <model></model>
   </offer>
-  <offer id="p11" available="true">
-    <url>https://sto.cross-export.ru/verthoning</url>
-    <price>0</price>
-    <currencyId>RUB</currencyId>
-    <categoryId>1</categoryId>
-    <picture></picture>
-    <name></name>
-    <description>Вертикально-хонинговальные станки для хонингования цилиндров ДВС. В наличии и под заказ из Китая, цены ниже конкурентов, доставка по РФ, гарантия.</description>
-    <vendor></vendor>
-    <model></model>
-  </offer>
-  <offer id="p12" available="true">
-    <url>https://sto.cross-export.ru/politika</url>
-    <price>0</price>
-    <currencyId>RUB</currencyId>
-    <categoryId>1</categoryId>
-    <picture></picture>
-    <name></name>
-    <description>Политика конфиденциальности сайта: как мы обрабатываем и защищаем персональные данные пользователей в соответствии с законодательством РФ.</description>
-    <vendor></vendor>
-    <model></model>
-  </offer>
-  <offer id="p13" available="true">
-    <url>https://sto.cross-export.ru/page153522136.html</url>
-    <price>0</price>
-    <currencyId>RUB</currencyId>
-    <categoryId>1</categoryId>
-    <picture></picture>
-    <name></name>
-    <description></description>
-    <vendor></vendor>
-    <model></model>
-  </offer>
-  <offer id="p14" available="true">
-    <url>https://sto.cross-export.ru/page153522156.html</url>
-    <price>0</price>
-    <currencyId>RUB</currencyId>
-    <categoryId>1</categoryId>
-    <picture></picture>
-    <name></name>
-    <description></description>
-    <vendor></vendor>
-    <model></model>
-  </offer>
   <offer id="p15" available="true">
     <url>https://sto.cross-export.ru/ld-1650</url>
-    <price>0</price>
+    <price>1650</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -178,7 +68,7 @@
   </offer>
   <offer id="p16" available="true">
     <url>https://sto.cross-export.ru/ug1000</url>
-    <price>0</price>
+    <price>1000</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -189,7 +79,7 @@
   </offer>
   <offer id="p17" available="true">
     <url>https://sto.cross-export.ru/ug1200</url>
-    <price>0</price>
+    <price>1200</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -200,7 +90,7 @@
   </offer>
   <offer id="p18" available="true">
     <url>https://sto.cross-export.ru/ug1400</url>
-    <price>0</price>
+    <price>1400</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -211,7 +101,7 @@
   </offer>
   <offer id="p19" available="true">
     <url>https://sto.cross-export.ru/ug1500</url>
-    <price>0</price>
+    <price>1500</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -222,7 +112,7 @@
   </offer>
   <offer id="p20" available="true">
     <url>https://sto.cross-export.ru/ug1600</url>
-    <price>0</price>
+    <price>1600</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -233,7 +123,7 @@
   </offer>
   <offer id="p21" available="true">
     <url>https://sto.cross-export.ru/ld-1750</url>
-    <price>0</price>
+    <price>1750</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -244,7 +134,7 @@
   </offer>
   <offer id="p22" available="true">
     <url>https://sto.cross-export.ru/t8210e</url>
-    <price>0</price>
+    <price>8210</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -255,7 +145,7 @@
   </offer>
   <offer id="p23" available="true">
     <url>https://sto.cross-export.ru/t8216</url>
-    <price>0</price>
+    <price>8216</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -264,42 +154,9 @@
     <vendor></vendor>
     <model></model>
   </offer>
-  <offer id="p24" available="true">
-    <url>https://sto.cross-export.ru/moechnye_eko</url>
-    <price>0</price>
-    <currencyId>RUB</currencyId>
-    <categoryId>1</categoryId>
-    <picture></picture>
-    <name></name>
-    <description>Моечная машина для двигателя, серия EKO. В наличии и под заказ, доставка по России, гарантия и техподдержка.</description>
-    <vendor></vendor>
-    <model></model>
-  </offer>
-  <offer id="p25" available="true">
-    <url>https://sto.cross-export.ru/moechnye_lk</url>
-    <price>0</price>
-    <currencyId>RUB</currencyId>
-    <categoryId>1</categoryId>
-    <picture></picture>
-    <name></name>
-    <description>Моечная машина для двигателя, серия LK. В наличии и под заказ, доставка по России, гарантия и техподдержка.</description>
-    <vendor></vendor>
-    <model></model>
-  </offer>
-  <offer id="p26" available="true">
-    <url>https://sto.cross-export.ru/moechnye_ak</url>
-    <price>0</price>
-    <currencyId>RUB</currencyId>
-    <categoryId>1</categoryId>
-    <picture></picture>
-    <name></name>
-    <description>Моечная машина для двигателя, серия AK. В наличии и под заказ, доставка по России, гарантия и техподдержка.</description>
-    <vendor></vendor>
-    <model></model>
-  </offer>
   <offer id="p27" available="true">
     <url>https://sto.cross-export.ru/smg1500</url>
-    <price>0</price>
+    <price>1500</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -310,7 +167,7 @@
   </offer>
   <offer id="p28" available="true">
     <url>https://sto.cross-export.ru/3m9735130</url>
-    <price>0</price>
+    <price>9735</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -321,7 +178,7 @@
   </offer>
   <offer id="p29" available="true">
     <url>https://sto.cross-export.ru/3m9735150</url>
-    <price>0</price>
+    <price>9735</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -332,7 +189,7 @@
   </offer>
   <offer id="p30" available="true">
     <url>https://sto.cross-export.ru/3m9740c130</url>
-    <price>0</price>
+    <price>9735</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -343,7 +200,7 @@
   </offer>
   <offer id="p31" available="true">
     <url>https://sto.cross-export.ru/3m9740c150</url>
-    <price>0</price>
+    <price>9740</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -354,7 +211,7 @@
   </offer>
   <offer id="p32" available="true">
     <url>https://sto.cross-export.ru/tsm-850</url>
-    <price>0</price>
+    <price>850</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -365,7 +222,7 @@
   </offer>
   <offer id="p33" available="true">
     <url>https://sto.cross-export.ru/bm200</url>
-    <price>0</price>
+    <price>200</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -376,7 +233,7 @@
   </offer>
   <offer id="p34" available="true">
     <url>https://sto.cross-export.ru/t200d</url>
-    <price>0</price>
+    <price>200</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -387,7 +244,7 @@
   </offer>
   <offer id="p35" available="true">
     <url>https://sto.cross-export.ru/tx200d</url>
-    <price>0</price>
+    <price>200</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -398,7 +255,7 @@
   </offer>
   <offer id="p36" available="true">
     <url>https://sto.cross-export.ru/txm200d</url>
-    <price>0</price>
+    <price>200</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -409,7 +266,7 @@
   </offer>
   <offer id="p37" available="true">
     <url>https://sto.cross-export.ru/bv120</url>
-    <price>0</price>
+    <price>120</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -420,7 +277,7 @@
   </offer>
   <offer id="p38" available="true">
     <url>https://sto.cross-export.ru/bv60</url>
-    <price>0</price>
+    <price>60</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -431,7 +288,7 @@
   </offer>
   <offer id="p39" available="true">
     <url>https://sto.cross-export.ru/bv60s</url>
-    <price>0</price>
+    <price>60</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -442,7 +299,7 @@
   </offer>
   <offer id="p40" available="true">
     <url>https://sto.cross-export.ru/bv90</url>
-    <price>0</price>
+    <price>90</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -453,7 +310,7 @@
   </offer>
   <offer id="p41" available="true">
     <url>https://sto.cross-export.ru/ld180a</url>
-    <price>0</price>
+    <price>180</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -464,7 +321,7 @@
   </offer>
   <offer id="p42" available="true">
     <url>https://sto.cross-export.ru/ld180l</url>
-    <price>0</price>
+    <price>180</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -475,7 +332,7 @@
   </offer>
   <offer id="p43" available="true">
     <url>https://sto.cross-export.ru/ld180lplus</url>
-    <price>0</price>
+    <price>180</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -486,7 +343,7 @@
   </offer>
   <offer id="p44" available="true">
     <url>https://sto.cross-export.ru/ld180s</url>
-    <price>0</price>
+    <price>180</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -497,7 +354,7 @@
   </offer>
   <offer id="p45" available="true">
     <url>https://sto.cross-export.ru/tendtool_tl120</url>
-    <price>0</price>
+    <price>120</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -508,7 +365,7 @@
   </offer>
   <offer id="p46" available="true">
     <url>https://sto.cross-export.ru/tendtooltl120xl</url>
-    <price>0</price>
+    <price>120</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -519,7 +376,7 @@
   </offer>
   <offer id="p47" available="true">
     <url>https://sto.cross-export.ru/vt60</url>
-    <price>0</price>
+    <price>60</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -530,7 +387,7 @@
   </offer>
   <offer id="p48" available="true">
     <url>https://sto.cross-export.ru/ld100l</url>
-    <price>0</price>
+    <price>100</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -541,7 +398,7 @@
   </offer>
   <offer id="p49" available="true">
     <url>https://sto.cross-export.ru/ld100s</url>
-    <price>0</price>
+    <price>100</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -552,7 +409,7 @@
   </offer>
   <offer id="p50" available="true">
     <url>https://sto.cross-export.ru/lb1000</url>
-    <price>0</price>
+    <price>1000</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -563,7 +420,7 @@
   </offer>
   <offer id="p51" available="true">
     <url>https://sto.cross-export.ru/lb2300</url>
-    <price>0</price>
+    <price>2300</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -574,7 +431,7 @@
   </offer>
   <offer id="p52" available="true">
     <url>https://sto.cross-export.ru/t8120sf</url>
-    <price>0</price>
+    <price>8120</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -585,7 +442,7 @@
   </offer>
   <offer id="p53" available="true">
     <url>https://sto.cross-export.ru/3m9816</url>
-    <price>0</price>
+    <price>9816</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -596,7 +453,7 @@
   </offer>
   <offer id="p54" available="true">
     <url>https://sto.cross-export.ru/3mb9817</url>
-    <price>0</price>
+    <price>9817</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -607,7 +464,7 @@
   </offer>
   <offer id="p55" available="true">
     <url>https://sto.cross-export.ru/th170d</url>
-    <price>0</price>
+    <price>170</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -618,7 +475,7 @@
   </offer>
   <offer id="p56" available="true">
     <url>https://sto.cross-export.ru/vhm170</url>
-    <price>0</price>
+    <price>170</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -629,7 +486,7 @@
   </offer>
   <offer id="p57" available="true">
     <url>https://sto.cross-export.ru/nts919-pro</url>
-    <price>0</price>
+    <price>919</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -640,7 +497,7 @@
   </offer>
   <offer id="p58" available="true">
     <url>https://sto.cross-export.ru/tnvd</url>
-    <price>0</price>
+    <price>20</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -649,20 +506,9 @@
     <vendor></vendor>
     <model></model>
   </offer>
-  <offer id="p59" available="true">
-    <url>https://sto.cross-export.ru/nt-d6</url>
-    <price>0</price>
-    <currencyId>RUB</currencyId>
-    <categoryId>1</categoryId>
-    <picture></picture>
-    <name></name>
-    <description>Стенд для проверки турбо-форсунок NT-D6. В наличии и под заказ из Китая, доставка по России, гарантия и техподдержка.</description>
-    <vendor></vendor>
-    <model></model>
-  </offer>
   <offer id="p60" available="true">
     <url>https://sto.cross-export.ru/nym930</url>
-    <price>0</price>
+    <price>930</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -673,7 +519,7 @@
   </offer>
   <offer id="p61" available="true">
     <url>https://sto.cross-export.ru/cr1020</url>
-    <price>0</price>
+    <price>1020</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -684,7 +530,7 @@
   </offer>
   <offer id="p62" available="true">
     <url>https://sto.cross-export.ru/heui305</url>
-    <price>0</price>
+    <price>305</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -695,7 +541,7 @@
   </offer>
   <offer id="p63" available="true">
     <url>https://sto.cross-export.ru/tl200</url>
-    <price>0</price>
+    <price>1020</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -706,7 +552,7 @@
   </offer>
   <offer id="p64" available="true">
     <url>https://sto.cross-export.ru/12psdw</url>
-    <price>0</price>
+    <price>12</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -717,7 +563,7 @@
   </offer>
   <offer id="p65" available="true">
     <url>https://sto.cross-export.ru/cr-819</url>
-    <price>0</price>
+    <price>819</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -728,7 +574,7 @@
   </offer>
   <offer id="p66" available="true">
     <url>https://sto.cross-export.ru/12psdw-a-150</url>
-    <price>0</price>
+    <price>12</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -739,7 +585,7 @@
   </offer>
   <offer id="p67" available="true">
     <url>https://sto.cross-export.ru/nt3000</url>
-    <price>0</price>
+    <price>3000</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -750,7 +596,7 @@
   </offer>
   <offer id="p68" available="true">
     <url>https://sto.cross-export.ru/12psb</url>
-    <price>0</price>
+    <price>12</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -761,7 +607,7 @@
   </offer>
   <offer id="p69" available="true">
     <url>https://sto.cross-export.ru/12psb-mini</url>
-    <price>0</price>
+    <price>12</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -772,7 +618,7 @@
   </offer>
   <offer id="p70" available="true">
     <url>https://sto.cross-export.ru/cr3000a-708</url>
-    <price>0</price>
+    <price>3000</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -783,7 +629,7 @@
   </offer>
   <offer id="p71" available="true">
     <url>https://sto.cross-export.ru/cr-966</url>
-    <price>0</price>
+    <price>966</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -794,7 +640,7 @@
   </offer>
   <offer id="p72" available="true">
     <url>https://sto.cross-export.ru/nts-815a</url>
-    <price>0</price>
+    <price>815</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -805,7 +651,7 @@
   </offer>
   <offer id="p73" available="true">
     <url>https://sto.cross-export.ru/nts-815apro</url>
-    <price>0</price>
+    <price>815</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -816,7 +662,7 @@
   </offer>
   <offer id="p74" available="true">
     <url>https://sto.cross-export.ru/nti-1010</url>
-    <price>0</price>
+    <price>1010</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -827,7 +673,7 @@
   </offer>
   <offer id="p75" available="true">
     <url>https://sto.cross-export.ru/nts-300</url>
-    <price>0</price>
+    <price>318</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -838,7 +684,7 @@
   </offer>
   <offer id="p76" available="true">
     <url>https://sto.cross-export.ru/nti-318pro</url>
-    <price>0</price>
+    <price>300</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
@@ -849,7 +695,7 @@
   </offer>
   <offer id="p77" available="true">
     <url>https://sto.cross-export.ru/eps-208pro</url>
-    <price>0</price>
+    <price>208</price>
     <currencyId>RUB</currencyId>
     <categoryId>1</categoryId>
     <picture></picture>
