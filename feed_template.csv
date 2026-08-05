@@ -1,2 +1,0 @@
-id,name,url,picture,price,currencyId,categoryId,description,vendor,model
-12345,"Пример товара","https://example.com/product/12345","https://example.com/images/12345.jpg",2590,RUB,10,"Короткое описание товара","BrandX","ModelA"
